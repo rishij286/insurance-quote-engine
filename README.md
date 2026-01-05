@@ -9,13 +9,13 @@ Built with **Spring Boot**, **Spring Data JPA**, **PostgreSQL**, and documented 
 
 ## Features
 
--  Generate quotes via REST API  
--  Deterministic pricing logic with rule-based adjustments  
--  **Explainable pricing breakdown** (each adjustment + reason)  
--  Quotes persisted in PostgreSQL  
--  Retrieve saved quotes by ID  
--  Auto-generated API docs via Swagger UI  
--  Clean separation of:
+- Generate quotes via REST API  
+- Deterministic pricing logic with rule-based adjustments  
+- **Explainable pricing breakdown** (each adjustment + reason)  
+- Quotes persisted in PostgreSQL  
+- Retrieve saved quotes by ID  
+- Auto-generated API docs via Swagger UI  
+- Clean separation of:
   - Request DTO
   - Business logic
   -  Persistence layer
