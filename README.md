@@ -16,10 +16,10 @@ Built with **Spring Boot**, **Spring Data JPA**, **PostgreSQL**, and documented 
 -  Retrieve saved quotes by ID  
 -  Auto-generated API docs via Swagger UI  
 -  Clean separation of:
-  \t- Request DTO
-  \t- Business logic
-  \t- Persistence layer
-  \t- Response / explanation model
+  - Request DTO
+  - Business logic
+  -  Persistence layer
+  - Response / explanation model
 
 ---
 
