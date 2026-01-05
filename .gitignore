@@ -1,0 +1,10 @@
+target/
+.idea/
+*.iml
+*.log
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
